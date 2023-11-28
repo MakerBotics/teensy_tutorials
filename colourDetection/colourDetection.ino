@@ -1,8 +1,8 @@
 /**
   * Created by Maker Store 28/11/2023
 
-  * Module for reading the RGB values from a TCS34725 colour sensor and 
-  * indicating the colour using a Teensy 4.1
+  * Module for reading the RGB values from a TCS34725 colour sensor and
+  * determining the colour while using a Teensy 4.1
 
 **/
 
