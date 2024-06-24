@@ -1,5 +1,5 @@
 /**
-  * Created by Maker Store 28/11/23
+  * MakerBotics Tutorial by VBG created on the 28/11/23
   * Module for reading & displaying the INA226 sensor output using a teensy 4.1
 **/
 
