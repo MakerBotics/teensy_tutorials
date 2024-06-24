@@ -1,5 +1,5 @@
 /*
-  * Created by Maker Store 28/11/2023
+  * MakerBotics Tutorial by VBG created on the 28/11/2023
   * Module for calibrating a HX711 load cell on a teensy 4.1
 */
 #include "HX711.h"
