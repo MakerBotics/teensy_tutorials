@@ -1,5 +1,5 @@
 /*
-  * Created by Maker Store 28/11/2023
+  * MakerBotics Tutorial by VBG created on the 28/11/2023
   * Module for measuring weight & calculating the average weight using a 
   * HX711 load cell on a Teensy 4.1
 */
