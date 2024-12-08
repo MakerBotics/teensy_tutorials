@@ -1,7 +1,12 @@
 /*
-  * MakerBotics Tutorial by VBG created on the 28/11/2023
-  * Module for calibrating a HX711 load cell on a teensy 4.1
+ # AUTHOR: VBG of MakerBotics
+# VERSION: 1 
+# DATE: 28/11/2023
+# PURPOSE: Module for calibrating a HX711 load cell on a teensy 4.1
+# License details: Attribution-ShareAlike 4.0 International CC BY-SA 4.0 Deed
 */
+
+
 #include "HX711.h"
 
 // Load cell's SCK & DT pins
